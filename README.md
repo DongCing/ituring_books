@@ -5,8 +5,11 @@
 ## 下载方法
 
 ```
-
+# 方法一：全速
 git clone https://github.com.cnpmjs.org/ChenyangGao/ituring_books.git
+
+# 方法二：限速
+git clone https://gitclone.com/github.com/ChenyangGao/ituring_books
 
 cd ituring_books
 
